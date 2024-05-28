@@ -1,0 +1,6 @@
+module Pods_TechMatrix_TechMatrixTests {
+  umbrella header "Pods-TechMatrix-TechMatrixTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

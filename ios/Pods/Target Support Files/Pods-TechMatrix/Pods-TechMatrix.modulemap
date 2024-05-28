@@ -1,0 +1,6 @@
+module Pods_TechMatrix {
+  umbrella header "Pods-TechMatrix-umbrella.h"
+
+  export *
+  module * { export * }
+}
